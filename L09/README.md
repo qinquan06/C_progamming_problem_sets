@@ -2,6 +2,7 @@
 **Author**: Ariel Motsenyat  
 **Project Name**: CS1XC3 Lab 9  
 **Installation Instructions**: must install doxygen first.  
+** description of the purpose** :to see the doxygen documentation
 **Configuration Instructions**:  
 1. make student.o
 2. make course.o
